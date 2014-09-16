@@ -1,15 +1,19 @@
 {
   "name": "bitcoin-hash",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hash functions for bitcoin",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tape test/*.js"
   },
   "author": "Stanislas Marion <stanislas.marion@gmail.com> (http://github.com/czzarr)",
   "license": "MIT",
   "dependencies": {
     "hash.js": "^0.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/challengerdeep/bitcoin-hash.git"
   },
   "devDependencies": {
     "buffer-equal": "0.0.1",
