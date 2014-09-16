@@ -1,0 +1,11 @@
+{
+  "name": "bitcoin-hash",
+  "version": "0.0.0",
+  "description": "Hash functions for bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanislas Marion <stanislas.marion@gmail.com> (http://github.com/czzarr)",
+  "license": "MIT"
+}
