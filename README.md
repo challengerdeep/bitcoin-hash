@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npm install bitcoin-hash
+`npm install bitcoin-hash`
 
 ## Example
 
