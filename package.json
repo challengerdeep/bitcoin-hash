@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-hash",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Hash functions for bitcoin",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/challengerdeep/bitcoin-hash.git"
+    "url": "git://github.com/czzarr/bitcoin-hash.git"
   },
   "devDependencies": {
     "buffer-equal": "0.0.1",
